@@ -1,0 +1,19 @@
+{
+  "subtitles.entity.parrot.imitate.creaking": "Parrot crunches",
+  "subtitles.entity.creaking.activate": "Crunching activates",
+  "subtitles.entity.creaking.ambient": "Crunching crunches",
+  "subtitles.entity.creaking.angry": "Crunching sees player",
+  "subtitles.entity.creaking.attack": "Cunching attacks",
+  "subtitles.entity.creaking.deactivate": "Crunching deactivates",
+  "subtitles.entity.creaking.death": "Crunching dies",
+  "subtitles.entity.creaking.freeze": "Crunching stops",
+  "subtitles.entity.creaking.spawn": "Crunching lives",
+  "subtitles.entity.creaking.sway": "Crunching is shielded",
+  "subtitles.entity.creaking.unfreeze": "Crunching moves",
+  "subtitles.block.creaking_heart.spawn": "Crunching Heart awakens",
+  "subtitles.block.creaking_heart.hurt": "Crunching Heart screams",
+  "item.minecraft.creaking_spawn_egg": "Crunching Spawn Egg",
+  "entity.minecraft.creaking": "Crunching",
+  "entity.minecraft.creaking_transient": "Crunching",
+  "block.minecraft.creaking_heart": "Crunching Heart"
+}
