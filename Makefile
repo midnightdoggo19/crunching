@@ -7,7 +7,7 @@ all: $(OUTPUT_ZIP)
 
 $(OUTPUT_ZIP):
 	@echo "Zipping resource pack (version $(VERSION))..."
-	zip -r $(OUTPUT_ZIP) $(RESOURCE_PACK_NAME) -x "*/.*" -x "__MACOSX/*"
+	zip -r $(OUTPUT_ZIP) * -x "*/.*" -x "__MACOSX/*"
 	@echo "Done: $(OUTPUT_ZIP)"
 
 clean:
